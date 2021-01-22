@@ -1,5 +1,20 @@
 # Changelog
 
+## 2.5 (2020-08-14)
+
+- Fix snowflake related bugs
+- Fix CSV parsing when empty lines are present
+- Fix Dockerfile auth location
+- Update documentation on configuration with better document structure
+
+## 2.5 (beta-1) (2020-07-21)
+
+- Add option to upload CSV directly
+- Add snowflake connector
+- Optimize some data
+- Pin new dependencies
+- Add Dockerfile
+
 ## 2.4 (2020-02-03)
 
 - Fix Firefox compatibility
